@@ -1,0 +1,25 @@
+{
+  "name": "qubit",
+  "version": "0.1.0",
+  "description": "A js library for simulated quantum computing.",
+  "main": "lib/quantum.js",
+  "scripts": {
+    "test": "node test/quantum.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLambda/qubit.git"
+  },
+  "keywords": [
+    "quantum",
+    "computing",
+    "qbit",
+    "qubit"
+  ],
+  "author": "iLambda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iLambda/qubit/issues"
+  },
+  "homepage": "https://github.com/iLambda/qubit#readme"
+}
